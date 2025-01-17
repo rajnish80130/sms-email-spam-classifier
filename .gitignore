@@ -1,0 +1,16 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore large model files (if not needed in the repo)
+
+
+# Ignore log and temporary files
+*.log
+*.tmp
+
+
