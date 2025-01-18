@@ -10,11 +10,12 @@ Access the live application here:
 
 ## Snapshots
 
-### 1. Input Field Example
-![Input Field](images/Screenshot-2025-01-18-143356-1.png)
+### 1. Not Spam Detection Output Example
+![Not Spam Detection](https://github.com/user-attachments/assets/281fbec4-3bf0-47bd-86a4-64d71bd6366a)
+
 
 ### 2. Spam Detection Output Example
-![Spam Detection](images/Screenshot-2025-01-18-143356-2.png)
+![Spam Detection](https://github.com/user-attachments/assets/65070c9d-cc74-49d2-bf18-7f947f1d253f)
 
 ---
 
