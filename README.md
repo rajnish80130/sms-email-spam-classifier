@@ -45,7 +45,11 @@ To run the project locally, follow these steps:
 
 ## Dataset
 
-The model was trained on a labeled dataset of spam and non-spam (ham) messages. The text data was preprocessed and vectorized using TF-IDF for optimal performance.
+The model was trained on an imbalanced dataset of SMS and email messages:
+
+87% Ham Messages: Normal (non-spam) messages.
+13% Spam Messages: Unwanted or spam messages.
+This imbalance was addressed during training to ensure robust spam detection.
 
 ---
 
