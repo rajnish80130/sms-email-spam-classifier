@@ -8,6 +8,16 @@ Access the live application here:
 
 ---
 
+## Snapshots
+
+### 1. Input Field Example
+![Input Field](images/Screenshot-2025-01-18-143356-1.png)
+
+### 2. Spam Detection Output Example
+![Spam Detection](images/Screenshot-2025-01-18-143356-2.png)
+
+---
+
 ## Features
 
 - **High Accuracy**: Achieves a classification accuracy of 97%.
