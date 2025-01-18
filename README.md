@@ -25,7 +25,7 @@ To run the project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/sms-email-spam-classifier.git
+   git clone https://github.com/rajnish80130/sms-email-spam-classifier.git
    cd sms-email-spam-classifier
    ```
 
