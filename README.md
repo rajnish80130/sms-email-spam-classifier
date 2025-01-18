@@ -12,7 +12,7 @@ Access the live application here:
 
 - **High Accuracy**: Achieves a classification accuracy of 97%.
   
-(![Accuracy Score](https://github.com/user-attachments/assets/e6883e33-21f5-4c1e-9012-8b80b4802180))
+![Accuracy Score](https://github.com/user-attachments/assets/e6883e33-21f5-4c1e-9012-8b80b4802180)
 - **Streamlit Interface**: A clean and interactive web interface for ease of use.
 - **Efficient Deployment**: Hosted on [Render](https://render.com/) for reliable and scalable access.
 - **Fast and Lightweight**: Utilizes TF-IDF and MultinomialNB for efficient processing.
