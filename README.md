@@ -15,7 +15,8 @@ Access the live application here:
 
 
 ### 2. Spam Detection Output Example
-![Spam Detection](https://github.com/user-attachments/assets/65070c9d-cc74-49d2-bf18-7f947f1d253f)
+![Spam Detection](https://github.com/user-attachments/assets/25442d65-eb52-4c17-a8f2-eb4e06ab9b75)
+
 
 ---
 
