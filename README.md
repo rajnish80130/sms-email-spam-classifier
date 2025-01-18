@@ -88,9 +88,6 @@ Contributions are welcome! To contribute:
 
 ---
 
-
----
-
 ## Contact
 
 For questions or feedback, feel free to reach out:  
