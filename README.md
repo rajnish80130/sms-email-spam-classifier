@@ -47,9 +47,9 @@ To run the project locally, follow these steps:
 
 The model was trained on an imbalanced dataset of SMS and email messages:
 
-87% Ham Messages: Normal (non-spam) messages.
-13% Spam Messages: Unwanted or spam messages.
-This imbalance was addressed during training to ensure robust spam detection.
+- 87% Ham Messages: Normal (non-spam) messages.
+- 13% Spam Messages: Unwanted or spam messages.
+- This imbalance was addressed during training to ensure robust spam detection.
 
 ---
 
